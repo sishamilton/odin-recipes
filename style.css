@@ -1,0 +1,14 @@
+h1 {
+  font-size: 40px;
+  color: rgb(124, 16, 16);
+  text-align: center;
+  padding: 10%;
+}
+
+div {
+    text-align: center;
+}
+a {
+  align-content: right;
+  font-size: 20px;
+}
